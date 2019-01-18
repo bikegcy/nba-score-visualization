@@ -1,0 +1,46 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  /* background: url('../../img/background.jpg') no-repeat center center;
+  opacity: 0.8;
+  background-size: cover; */
+}
+
+.wrapBox {
+  margin: auto;
+  width: 77%;
+  padding-left: 20px;
+}
+
+.multiSelect {
+  margin-bottom: 10px;
+}
+
+.customInputBox {
+  width: 70%;
+  margin: auto;
+  /* display: flex; */
+}
+
+.description {
+  float: left;
+  margin-left: 16%;
+  margin-bottom: 3px;
+  margin-right: 20%;
+  display: block;
+}
+
+.customInputArea {
+  width: 68%;
+  margin: auto;
+  
+}
+
+.customSubmitButton {
+  float: left;
+  margin-left: 16%;
+  margin-top: 5px;
+}
+
+
