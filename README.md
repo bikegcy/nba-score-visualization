@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is to visualize the NBA scores data in a chart.  
 
-You can choose multiple teams and choose among 'home', 'visitor' and 'both' to select certain type of gemes.
+You can choose multiple teams and choose among 'home', 'visitor' and 'both' to select certain type of games.
 
 You can also paste your own data in the CSV format. (There are some tips by hovering the 'Customized Score Data' button) 
 
