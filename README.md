@@ -6,6 +6,8 @@ You can choose multiple teams and choose among 'home', 'visitor' and 'both' to s
 
 You can also paste your own data in the CSV format. (There are some tips by hovering the 'Customized Score Data' button) 
 
+![Running Demo](./demoPic.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
